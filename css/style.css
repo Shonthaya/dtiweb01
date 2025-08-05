@@ -14,10 +14,10 @@ button{
     display: block;
     margin: auto;
     background-color: green; /* Green */
-    color: white;
+    color: red;
     padding: 15px;
 }
-botton:hover {
+botton:hover{
     background-color: red; /* Darker green */
     color: red;
 }
