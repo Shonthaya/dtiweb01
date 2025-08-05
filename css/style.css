@@ -1,0 +1,27 @@
+.wee{
+    color: green;
+    display: block;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    width: 25%;
+    height: 25%;
+}
+button{
+    display: block;
+    margin: auto;
+    background-color: green; /* Green */
+    color: white;
+    padding: 15px;
+}
+botton:hover {
+    background-color: red; /* Darker green */
+    color: red;
+}
+span{
+    font-size: 25px;
+    font-weight: bold;
+}
